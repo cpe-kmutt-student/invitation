@@ -7,4 +7,4 @@ member('eltfshr');
 member('sokungz01');
 member('Porping');
 member('ChaiyapatOam');
-member('Aquintise')
+member('Aquintise');
