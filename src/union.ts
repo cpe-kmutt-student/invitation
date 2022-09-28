@@ -23,3 +23,5 @@ member('BoMoMoBo');
 member('SSSBoOm');
 member('Encall');
 member('KittpongT');
+member('chogerlate');
+ 
