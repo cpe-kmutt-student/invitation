@@ -4,6 +4,7 @@ organization('cpe-kmutt-student');
 
 admin('riflowth');
 
+member('SupeemAFK');
 member('eltfshr');
 member('sokungz01');
 member('Porping');
